@@ -19,7 +19,6 @@ This repository contains my hands-on practice as an Applied Mathematics undergra
 * `03-quantum-states-and-gates/`
 * `04-measurement-and-entanglement/`
 * `05-qiskit-practice/`
-* `figures/`
 
 ## Tools
 
