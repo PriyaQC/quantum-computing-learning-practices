@@ -1,5 +1,4 @@
-# quantum-computing-learning-practices
-My learning journey in Python, NumPy, linear algebra, and quantum computing through hands-on practice exercises.
+
 # Quantum Computing Learning Practice
 
 This repository contains my hands-on practice as an Applied Mathematics undergraduate building foundations in programming and quantum computing.
